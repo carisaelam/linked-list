@@ -1,2 +1,3 @@
-# linked-list
-TOP linked list project
+# Linked Lists Project
+
+I completed the Linked Lists project as part of The Odin Project's Ruby curriculum. In this project, I implemented a linked list from scratch, creating methods to insert, remove, and search for nodes. Additionally, I built functionality to display the list, find its size, and access nodes at specific positions. This project helped me understand fundamental data structures and improve my problem-solving skills in Ruby.
